@@ -1,0 +1,128 @@
+[
+  {
+    "id": "dscr",
+    "title": "DSCR",
+    "expected": "DSCR",
+    "text": "Debt Service Coverage Ratio or DSCR shall mean, on any date, in respect of a Financial Year, the ratio of (a) is to (b) below, calculated based on the last audited annual financial statement of the Borrower: the aggregate of net profit after tax for that period, non cash adjustments including depreciation and amortization, finance costs including interest payments, to the aggregate amount of the Repayment Instalments together with interest. The Borrower shall maintain DSCR of not less than 1.10."
+  },
+  {
+    "id": "dsra",
+    "title": "DSRA",
+    "expected": "DSRA Maintenance",
+    "text": "Debt Service Reserve or DSR shall mean the reserve to be created and maintained at all times during the currency of the Facility by the Borrower in the Debt Service Reserve Account, in the manner as specified in Clause 13.35, of an amount equivalent to the aggregate of the Repayment Installments and interest amounts payable by the Borrower to the Lenders for the ensuing 2 (two) Fiscal Quarters in terms of the Finance Documents. DSRA shortfall shall be funded promptly."
+  },
+  {
+    "id": "restricted",
+    "title": "Restricted payments",
+    "expected": "Restricted Payment Testing",
+    "text": "Restricted Payments shall mean all distributions of the Borrower (either in cash, property or obligations) on, or other payments by way of investment or loans or advances or distributions, on account of purchase, retirement or other acquisition of any partnership interest of the Borrower or any payment of interest, principal or other sum in relation to any unsecured loan, partner loans, or any management fee. No dividends or restricted payments unless Restricted Payment Conditions are met, there is no default, and reserves are funded."
+  },
+  {
+    "id": "put",
+    "title": "Put option",
+    "expected": "Put Option",
+    "text": "The Lenders shall have a Put Option to require the Borrower to mandatorily prepay the outstanding Facility upon occurrence of a Put Option Event, by issuing a notice of not less than 90 (ninety) days. Upon exercise of the Put Option the Borrower shall prepay the Prepayment Amount together with accrued interest."
+  },
+  {
+    "id": "debt",
+    "title": "Additional indebtedness",
+    "expected": "Additional Indebtedness",
+    "text": "The Borrower shall not incur any additional indebtedness except Permitted Indebtedness. Permitted Indebtedness shall mean the Existing Facilities, subordinated facilities provided by the Sponsor, the Facility, and any other Indebtedness availed with the prior written approval of the Lenders. No further borrowings or additional financial debt without lender consent."
+  },
+  {
+    "id": "shareholding",
+    "title": "Shareholding / control",
+    "expected": "Shareholding",
+    "text": "The Sponsor shall maintain Management Control of the Borrower, including legal and beneficial ownership of minimum 51% (fifty one percent) of the partnership interest of the Borrower directly. No dilution of shareholding or change in ownership structure without the prior written approval of the Lenders."
+  },
+  {
+    "id": "tra",
+    "title": "TRA / escrow",
+    "expected": "TRA/Escrow/Designated account opening",
+    "text": "Account(s) or TRA Account shall mean the Existing TRA created with the TRA Agent and each of its sub accounts set up under the TRA Agreement or any other account agreed acceptable to the Lenders in which Project cash flows or Receivables are deposited. All project proceeds shall be deposited in the Trust and Retention Account and utilised strictly in accordance with the cash flow waterfall."
+  },
+  {
+    "id": "irr",
+    "title": "Inverter reserve",
+    "expected": "Inverter replacement reserve/IRR",
+    "text": "Inverter Replacement Reserve or IRR shall mean the reserve created/to be created by the Borrower in accordance with the terms of the TRA Agreement and Clause 13.45 set forth in this Agreement. The Borrower shall maintain the inverter replacement reserve fund in a separate account."
+  },
+  {
+    "id": "spread",
+    "title": "Spread reset",
+    "expected": "Spread reset",
+    "text": "Spread Reset - The Lenders have the right to reset the Spread applicable to the Lending Rate, as per the terms of Schedule 3 till the Final Settlement Date with a prior notice of 15 (fifteen) days to the Borrower. Each date on which the Spread can be reset is a Spread Reset Date. The applicable margin may be revised upon credit spread revision."
+  },
+  {
+    "id": "security",
+    "title": "Security creation",
+    "expected": "Security Creation & Perfection",
+    "text": "The Borrower shall create and perfect security over all Project Assets in favour of the Security Trustee acting for the benefit of the Secured Parties, including Deed of Hypothecation of movable assets, mortgage of Immovable Property, charge creation, ROC filing and CERSAI registration, within the prescribed timelines for perfection of security."
+  },
+  {
+    "id": "insurance",
+    "title": "Insurance",
+    "expected": "Insurance",
+    "text": "The Borrower shall obtain and maintain insurance contracts and policies required in terms of this Agreement in relation to the Project. Lenders shall be named as beneficiary or loss payee. Insurance policies shall be renewed in a timely manner and copies of insurance certificates submitted to the Lenders' Agent."
+  },
+  {
+    "id": "prepay",
+    "title": "Prepayment premium",
+    "expected": "Prepayment premium",
+    "text": "Prepayment Premium shall mean the rate of interest which may be prescribed by the Lenders from time to time at which the Borrower may prepay the Secured Obligations in terms of the provisions of this Agreement. Any voluntary prepayment shall attract make whole premium and prepayment charges as notified by the Lenders."
+  },
+  {
+    "id": "ppa",
+    "title": "PPA validity",
+    "expected": "PPA Validity",
+    "text": "The Borrower shall maintain in full force a valid Power Purchase Agreement with the Offtaker. Project Documents include the Power Purchase Agreement(s) and offtake agreement. Any termination or non-renewal of the PPA shall be notified to the Lenders and may require mandatory prepayment based on Annual Revenue contribution."
+  },
+  {
+    "id": "default_interest",
+    "title": "Default interest",
+    "expected": "Default Interest",
+    "text": "Upon any delay in payment of any Secured Obligations on the Due Date, the Borrower shall pay Additional Interest and Modified Interest as specified in Clause 3.4.2. Such default interest, penal interest and delayed payment interest shall accrue until the overdue amount is paid in full."
+  },
+  {
+    "id": "esg",
+    "title": "ESG / E&S",
+    "expected": "ESG KPI monitoring",
+    "text": "The Borrower shall submit a bird mortality/injury report every 6 (six) months during the currency of the Facility, conduct noise monitoring once in 6 months near the receptors within 500m radius of WTGs, and ensure environmental compliance, labour and safety reporting including ESG and E&S performance data."
+  },
+  {
+    "id": "rating",
+    "title": "Credit rating",
+    "expected": "External rating report",
+    "text": "The Borrower must obtain a credit rating from an approved Credit Rating Agency such as CARE, CRISIL, India Ratings or ICRA Limited. Initial rating within the stipulated period of first disbursement and annual rating surveillance and renewal thereafter. Any downgrade in the existing credit rating of the Borrower is a Deterioration in Creditworthiness."
+  },
+  {
+    "id": "om",
+    "title": "O&M contract",
+    "expected": "O&M contract Validity",
+    "text": "O&M Contract(s) shall mean the contract(s) entered into by the O&M Contractor in relation to the Project, including the full service agreement for operations and maintenance dated December 16, 2021 and the comprehensive operation and maintenance agreement. The Borrower shall keep a valid O&M contract in force and renew or extend the O&M agreement as required."
+  },
+  {
+    "id": "sponsor",
+    "title": "Sponsor support",
+    "expected": "Sponsor Support Undertaking",
+    "text": "Sponsor Support Undertaking shall mean the undertaking to be executed by the Sponsor and the Borrower in favour of the Security Trustee and the Lenders' Agent, in a form and manner satisfactory to the Lenders. The Sponsor shall provide equity support and infuse promoter contribution as required under the support agreement."
+  },
+  {
+    "id": "disposal",
+    "title": "Asset disposal",
+    "expected": "Asset Disposal",
+    "text": "Permitted Disposal shall mean any disposal, sale, lease or conveyance of assets of the Borrower that are not exceeding 5% (five percent) of the Project Cost. The Borrower shall not transfer, sell or divest Project Assets other than a Permitted Disposal without prior written consent of the Lenders."
+  },
+  {
+    "id": "audited",
+    "title": "Audited financials",
+    "expected": "Audited Financials/Annual report",
+    "text": "The Borrower shall submit audited financial statements including profit and loss account, balance sheet and annual report, together with the statutory auditor certification confirming a true and fair view, and comparative financials to the prior year, within the prescribed timeline after the end of each Financial Year."
+  },
+  {
+    "id": "unmatched",
+    "title": "Unmatched (construction progress)",
+    "expected": null,
+    "text": "The Borrower shall paint all wind turbine towers with aviation obstruction markings in alternating bands of orange and white in accordance with DGCA circulars, and shall install aviation warning lights on each nacelle prior to first generation."
+  }
+]

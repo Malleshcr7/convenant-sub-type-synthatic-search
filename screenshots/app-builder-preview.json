@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Covenant Scout",
+      "hasCanvas": false,
+      "bodyTextLen": 1068,
+      "bodyTextHash": "9604197f159990ed5e5d2d00e226e7030866dc0546d52336d847180b23038f5f",
+      "bodyTextPrefix": "FACILITY AGREEMENT SCREENING Covenant Scout Paste a clause. Keyw",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Covenant Scout",
+      "hasCanvas": false,
+      "bodyTextLen": 1068,
+      "bodyTextHash": "9604197f159990ed5e5d2d00e226e7030866dc0546d52336d847180b23038f5f",
+      "bodyTextPrefix": "FACILITY AGREEMENT SCREENING Covenant Scout Paste a clause. Keyw",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
